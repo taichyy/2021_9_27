@@ -14,3 +14,6 @@
 - [x] it's cool
 - [ ] next thing to do 
 - [ ] the next thing after the next thing called the third thing
+
+var s = "I am Taicheng Yen from NKUST";
+alert(s);

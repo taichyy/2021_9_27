@@ -1,2 +1,10 @@
 # 2021_9_27
-homework for nkust, 2021,09,27
+
+## C108118110 嚴太成
+
+### 組員：學號 姓名
+### 學號 姓名
+
+#### 題目：
+[我的網頁]{https://www.nukst.edu.tw/}
+![NKFUST](https://www.nkust.edu.tw/var/file/0/1000/img/513/182513897.png)

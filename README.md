@@ -10,3 +10,7 @@
 ![NKFUST](https://www.nkust.edu.tw/var/file/0/1000/img/513/182513897.png)
 
 `QUOTED`
+
+- [x] it's cool
+- [ ] next thing to do 
+- [ ] the next thing after the next thing called the third thing

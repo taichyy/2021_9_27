@@ -23,3 +23,8 @@ Emphasis, aka <i>italics</i> whih <i>asterisks</i> or <i>underscores.</i>
 Strong emphasis, aka bold, with <b>asterisks</b> or <b>underscores.</b>  
 Combined emphasis with <b>asterisks and <i>underscores.</i></b>  
 Strikethrough uses two tildes. ~~Scratch this~~
+
+1. First ordered list item  
+2. Another item  
+  3. Unordered sub-list.
+3. Actual numbers don't matter, just that it's a number 

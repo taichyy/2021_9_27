@@ -19,7 +19,7 @@
 - [ ] next thing to do 
 - [ ] the next thing after the next thing called the third thing
 
-Emphasis, aka <i>italics</i> whih <i>asterisks</i> or <i>underscores.</i>
-Strong emphasis, aka bold, with <b>asterisks</b> or <b>underscores.</b>
-Combined emphasis with <b>asterisks and <i>underscores.</i></b>
+Emphasis, aka <i>italics</i> whih <i>asterisks</i> or <i>underscores.</i>  
+Strong emphasis, aka bold, with <b>asterisks</b> or <b>underscores.</b>  
+Combined emphasis with <b>asterisks and <i>underscores.</i></b>  
 Strikethrough uses two tildes. ~~Scratch this~~
